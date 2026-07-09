@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Devanjana2605/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Devanjana2605/LeetCode/tree/master/0070-climbing-stairs) |
 | [1518-water-bottles](https://github.com/Devanjana2605/LeetCode/tree/master/1518-water-bottles) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Devanjana2605/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
