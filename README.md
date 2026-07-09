@@ -40,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Devanjana2605/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Devanjana2605/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Devanjana2605/LeetCode/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Devanjana2605/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Devanjana2605/LeetCode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devanjana2605/LeetCode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Devanjana2605/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
