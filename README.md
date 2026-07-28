@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Devanjana2605/LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devanjana2605/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Devanjana2605/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Devanjana2605/LeetCode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Devanjana2605/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Devanjana2605/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Devanjana2605/LeetCode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/Devanjana2605/LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Devanjana2605/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Devanjana2605/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -77,4 +80,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Devanjana2605/LeetCode/tree/master/0035-search-insert-position) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Devanjana2605/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Devanjana2605/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Devanjana2605/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Devanjana2605/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Devanjana2605/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
