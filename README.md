@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devanjana2605/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Devanjana2605/LeetCode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Devanjana2605/LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devanjana2605/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Devanjana2605/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Devanjana2605/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Devanjana2605/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
